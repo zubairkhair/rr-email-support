@@ -1,0 +1,7 @@
+{
+  "name": "RR Email Support",
+  "description": "Professional technical support for Roadrunner email services across the USA. Fast, reliable, and 24/7 customer assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
